@@ -1,0 +1,11 @@
+/*
+-- Query: SELECT * FROM tyc353_1.TB_APPLICATION_STATUS
+LIMIT 0, 1000
+
+-- Date: 2020-08-09 15:11
+*/
+INSERT INTO TB_APPLICATION_STATUS (status_id,status) VALUES (3,'Accepted');
+INSERT INTO TB_APPLICATION_STATUS (status_id,status) VALUES (0,'Applied');
+INSERT INTO TB_APPLICATION_STATUS (status_id,status) VALUES (2,'Declined');
+INSERT INTO TB_APPLICATION_STATUS (status_id,status) VALUES (1,'Offered');
+INSERT INTO TB_APPLICATION_STATUS (status_id,status) VALUES (4,'Refused');

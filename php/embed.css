@@ -1,0 +1,65 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+
+table {
+    width: 100%;
+}
+th.e50 {
+    width: 50px;
+}
+th.e80 {
+    width: 80px;
+}
+th.e100 {
+    width: 100px;
+}
+th.e120 {
+    width: 120px;
+}
+th.e180 {
+    width: 180px;
+}
+td {
+    text-align: center;
+}
+
+.mainbutton{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: #3471a6;
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.jtitle {
+    width: 90%;
+}
+
+.wp90 {
+    width: 90%;
+}
+
+.w200px {
+    width: 200px;
+}
+
+.jdescription {
+    width: 90%;
+    height: 200px;
+}
+
+.resume {
+    width: 90%;
+    height: 200px;
+}
+
+span {
+    font-weight: bold; 
+}
+
+span.wrong {
+    color: red;
+}
